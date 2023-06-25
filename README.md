@@ -20,8 +20,8 @@ DACON-도배 하자 유형 분류 AI 경진대회 / **Ranked in 57 of 1025**
 ## 🚀 Projects
 GAN-based-face-mask-removal 
 [[Repository](https://github.com/wocns1457/GAN-based-face-mask-removal)]
-- 이 프로젝트는 마스크를 쓴 인물의 이미지에서 마스크 뒤에 감춰진 얼굴을 복원하는 프로젝트
+- 마스크를 쓴 인물의 이미지에서 마스크 뒤에 감춰진 얼굴을 복원하는 프로젝트
 
 GAN-based-face-mask-removal-version2 
 [[Repository](https://github.com/wocns1457/GAN-based-face-mask-removal-version2)]
-- 이 프로젝트는 GAN-based-face-mask-removal에서의 성능 개선 프로젝트입니다.
+- GAN-based-face-mask-removal에서의 성능 개선 프로젝트
