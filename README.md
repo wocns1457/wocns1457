@@ -1,1 +1,27 @@
-hi
+## 김덕진
+I want to become an DL/ML engineer in the near future!  
+
+E-mail : wocns1457@gmail.com
+
+## 💻 Language, Framework
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tensorflow 2.0 +-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
+
+## 🏆 Compitition [[Repository](https://github.com/wocns1457/DACON-Competition)]
+
+DACON-포디블록 구조 추출 AI 경진대회 / **Ranked in 80 of 461**  
+
+DACON-제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회(채용 연계형) / **Ranked in 1 of 449**  
+
+DACON-도배 하자 유형 분류 AI 경진대회 / **Ranked in 57 of 1025**  
+
+## 🚀 Projects
+GAN-based-face-mask-removal 
+[[Repository](https://github.com/wocns1457/GAN-based-face-mask-removal)]
+- 이 프로젝트는 마스크를 쓴 인물의 이미지에서 마스크 뒤에 감춰진 얼굴을 복원하는 프로젝트
+
+GAN-based-face-mask-removal-version2 
+[[Repository](https://github.com/wocns1457/GAN-based-face-mask-removal-version2)]
+- 이 프로젝트는 GAN-based-face-mask-removal에서의 성능 개선 프로젝트입니다.
